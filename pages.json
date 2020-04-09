@@ -1,32 +1,12 @@
 {
   "index": {
-    "title": "Tom's Website",
+    "title": "Sitemap",
     "template": "public/index.html",
     "entry": "src/main.js"
   },
-  "about": {
-    "title": "About Me",
-    "template": "public/about.html",
-    "entry": "src/main.js"
-  },
-  "interests": {
-    "title": "My Interests",
-    "template": "public/interests.html",
-    "entry": "src/main.js"
-  },
-  "work": {
-    "title": "My Work",
-    "template": "public/work.html",
-    "entry": "src/main.js"
-  },
-  "contact": {
-    "title": "Contact Me",
-    "template": "public/contact.html",
-    "entry": "src/main.js"
-  },
-  "sitemap": {
-    "title": "Sitemap",
-    "template": "public/sitemap.html",
+  "calculator": {
+    "title": "FM-Challenge-1_Calculator",
+    "template": "public/calculator.html",
     "entry": "src/main.js"
   }
 }
