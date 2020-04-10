@@ -19,7 +19,7 @@
 
 <script>
 export default {
-  el: '#app',
+  name: 'Calculator',
   data() {
     return {
       num1: 0,

@@ -8,5 +8,15 @@
     "title": "FM-Challenge-1_Calculator",
     "template": "public/calculator.html",
     "entry": "src/main.js"
+  },
+  "blogposts": {
+    "title": "FM-Challenge-2_Blogposts",
+    "template": "public/blog.html",
+    "entry": "src/main.js"
+  },
+  "travel": {
+    "title": "FM-Challenge-3_Components",
+    "template": "public/trail.html",
+    "entry": "src/main.js"
   }
 }
