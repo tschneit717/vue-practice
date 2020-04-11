@@ -16,7 +16,7 @@
   },
   "travel": {
     "title": "FM-Challenge-3_Components",
-    "template": "public/trail.html",
+    "template": "public/travel.html",
     "entry": "src/main.js"
   }
 }
