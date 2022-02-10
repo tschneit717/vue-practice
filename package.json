@@ -36,7 +36,7 @@
     "html-loader": "^0.5.5",
     "lint-staged": "^9.4.2",
     "netlify-lambda": "^0.2.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
     "stylelint": "^11.1.1",
